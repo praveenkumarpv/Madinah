@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "203311040249",
+    "project_id": "changemadinahandcommune-22a43",
+    "storage_bucket": "changemadinahandcommune-22a43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203311040249:android:55e9a964c33aa9a00b4428",
+        "android_client_info": {
+          "package_name": "com.m24.madinah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203311040249-m4pfnr20e36kdv167stq8hhocuqpn091.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVfWa_IE7e9rIsg-VTZ-YNLd5XtBhoPFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203311040249-m4pfnr20e36kdv167stq8hhocuqpn091.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
